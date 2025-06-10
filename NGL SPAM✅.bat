@@ -16,8 +16,8 @@ echo  ╚═╝  ╚═══╝ ╚═════╝ ╚══════╝ 
 echo.
 
 :: Default Configuration
-set "target=hesyu_santeyo1"
-set "message=tite"
+set "target=USERNAME"
+set "message=Miss u"
 set "total=5"
 set "min_delay=2"
 set "max_delay=10"
